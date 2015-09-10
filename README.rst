@@ -4,7 +4,7 @@
 
 Copyright (c) 2008,2015 Jeremie DECOCK (http://www.jdhp.org)
 
-* Web site: http://www.jdhp.org/articles_en.html#vim_spell
+* Web site: http://www.jdhp.org/tutorials_fr.html#vim_spell
 * Source code: https://github.com/jdhp-docs/vim_spell
 
 Description
@@ -12,7 +12,7 @@ Description
 
 This repository contains the LaTeX source files of the following tutorial
 written (in French) by Jérémie Decock in February 2008: *Introduction à la
-correction orthographique avec Vim*
+correction orthographique avec Vim*.
 
 License
 =======
@@ -22,5 +22,5 @@ terms and conditions of the `CC BY-SA License`_.
 
 
 .. _CC BY-SA License: http://creativecommons.org/licenses/by-sa/4.0/
-.. _Introduction à la correction orthographique avec Vim: http://www.jdhp.org/articles_en.html#vim_spell
+.. _Introduction à la correction orthographique avec Vim: http://www.jdhp.org/tutorials_fr.html#vim_spell
 
